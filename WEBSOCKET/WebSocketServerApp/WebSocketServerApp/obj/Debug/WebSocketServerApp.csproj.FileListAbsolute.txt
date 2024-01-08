@@ -1,0 +1,10 @@
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\bin\Debug\WebSocketServerApp.exe.config
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\bin\Debug\WebSocketServerApp.exe
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\bin\Debug\WebSocketServerApp.pdb
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\bin\Debug\websocket-sharp.dll
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\bin\Debug\websocket-sharp.xml
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\obj\Debug\WebSocketServerApp.csproj.AssemblyReference.cache
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\obj\Debug\WebSocketServerApp.csproj.CoreCompileInputs.cache
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\obj\Debug\WebSocketServerApp.csproj.CopyComplete
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\obj\Debug\WebSocketServerApp.exe
+C:\Users\ashwi\source\repos\Practice\WEBSOCKET\WebSocketServerApp\WebSocketServerApp\obj\Debug\WebSocketServerApp.pdb
